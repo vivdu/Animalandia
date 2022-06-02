@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Animalandia/static/css/main.1275b6c1.css",
-    "main.js": "/Animalandia/static/js/main.9f8a38fc.js",
+    "main.js": "/Animalandia/static/js/main.76439d3e.js",
     "static/media/banner_equipo.svg": "/Animalandia/static/media/banner_equipo.fdf34527a6a8be2a0f80fbad3ce540a9.svg",
     "static/media/bannercontacto.jpg": "/Animalandia/static/media/bannercontacto.c0d481a27988f7b1b021.jpg",
     "static/media/fondo.jpg": "/Animalandia/static/media/fondo.6732ce654ea91f975480.jpg",
@@ -16,10 +16,10 @@
     "static/media/medico2.jpg": "/Animalandia/static/media/medico2.bda910d5947772abfbd8.jpg",
     "index.html": "/Animalandia/index.html",
     "main.1275b6c1.css.map": "/Animalandia/static/css/main.1275b6c1.css.map",
-    "main.9f8a38fc.js.map": "/Animalandia/static/js/main.9f8a38fc.js.map"
+    "main.76439d3e.js.map": "/Animalandia/static/js/main.76439d3e.js.map"
   },
   "entrypoints": [
     "static/css/main.1275b6c1.css",
-    "static/js/main.9f8a38fc.js"
+    "static/js/main.76439d3e.js"
   ]
 }
