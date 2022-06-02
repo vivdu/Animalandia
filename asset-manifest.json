@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/Animalandia/static/css/main.4d177584.css",
-    "main.js": "/Animalandia/static/js/main.3590c029.js",
-    "static/js/787.c85d5058.chunk.js": "/Animalandia/static/js/787.c85d5058.chunk.js",
+    "main.css": "/Animalandia/static/css/main.1275b6c1.css",
+    "main.js": "/Animalandia/static/js/main.9f8a38fc.js",
+    "static/media/banner_equipo.svg": "/Animalandia/static/media/banner_equipo.fdf34527a6a8be2a0f80fbad3ce540a9.svg",
+    "static/media/bannercontacto.jpg": "/Animalandia/static/media/bannercontacto.c0d481a27988f7b1b021.jpg",
     "static/media/fondo.jpg": "/Animalandia/static/media/fondo.6732ce654ea91f975480.jpg",
+    "static/media/bannertips.jpg": "/Animalandia/static/media/bannertips.93e0bfee7538832536cb.jpg",
+    "static/media/banner2.jpeg": "/Animalandia/static/media/banner2.556c3af729f36e0f1080.jpeg",
+    "static/media/medico1.jpg": "/Animalandia/static/media/medico1.bd576313a472166745b6.jpg",
+    "static/media/vacunacion.png": "/Animalandia/static/media/vacunacion.eef4131b756bb171541d.png",
+    "static/media/paciente.png": "/Animalandia/static/media/paciente.204a13b454710c6848d7.png",
     "static/media/logo.jpg": "/Animalandia/static/media/logo.8bba2df5f8edc1228c76.jpg",
+    "static/media/veterinario.png": "/Animalandia/static/media/veterinario.8ce5bb6060f8ff3b9d74.png",
+    "static/media/golden.jpg": "/Animalandia/static/media/golden.35c61c78b36b1fd88b75.jpg",
+    "static/media/medico2.jpg": "/Animalandia/static/media/medico2.bda910d5947772abfbd8.jpg",
     "index.html": "/Animalandia/index.html",
-    "main.4d177584.css.map": "/Animalandia/static/css/main.4d177584.css.map",
-    "main.3590c029.js.map": "/Animalandia/static/js/main.3590c029.js.map",
-    "787.c85d5058.chunk.js.map": "/Animalandia/static/js/787.c85d5058.chunk.js.map"
+    "main.1275b6c1.css.map": "/Animalandia/static/css/main.1275b6c1.css.map",
+    "main.9f8a38fc.js.map": "/Animalandia/static/js/main.9f8a38fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d177584.css",
-    "static/js/main.3590c029.js"
+    "static/css/main.1275b6c1.css",
+    "static/js/main.9f8a38fc.js"
   ]
 }
