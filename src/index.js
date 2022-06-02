@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import Home from './pages/home/Home';
 import Perros from './pages/perros/Perros';
-import Equipo from './pages/equipo/Equipo'
-import Contactos from './pages/contacto/Contactos'
+import Equipo from './pages/equipo/Equipo';
+import Contactos from './pages/contacto/Contactos';
 import Error404 from './pages/error404/Error404';
 import Servicios from './pages/servicios/Servicios'
 import {
