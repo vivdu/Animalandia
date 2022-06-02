@@ -7,15 +7,15 @@ return(
             <div className='modal-content'>
                 <div className='modal-header'>
                     <h5 className="modal-title" id="exampleModalLabel">{props.pm2} </h5>
-                    <button type='button' className='btn-close' data-bs-dismiss="modal" aria-label="Close"></button>
-                    <div className='moda-body row'>
-                        <div className='col-4'>
+                    <button type='button' className='btn-close' data-bs-dismiss="modal" aria-label="Close"></button></div>
+                    <div className='modal-body'>
+                        <div className='imagenmodal'>
                             <img src={props.pm4} alt="perritu"/>
                         </div>
-                        <div className='col-8'>
+                        <div className='text-center py-3'>
                             <strong>Acerca de </strong>
                             <p>{props.pm3}</p>
-
+                            
                         </div>
                     </div>
                     <div className='modal-footer'>
@@ -25,7 +25,7 @@ return(
                 </div>
             </div>
         </div>
-    </div>
+    
     );
 }
 export default ModalRazas;

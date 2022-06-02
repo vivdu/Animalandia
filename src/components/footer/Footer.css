@@ -4,10 +4,17 @@
 }
 
 .cajai{
+	display: flex;
+	justify-content: space-around;
 	text-align:center;
 	background-color: rgba(117,41,149,0.7);
 	color: #FFFFFF;
 	padding: 20px;
+}
+.cajai h5 {
+	font-size: larger;
+	font-weight: bolder;
+	padding-right: 1rem;
 }
 .infos{
 	font-size: 40px;

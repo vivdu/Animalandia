@@ -1,12 +1,7 @@
 import './Navbar.css';
 import {
-    BrowserRouter as Router,
-    Switch,
-    Route,
-    Link,
     NavLink
   } from "react-router-dom";
-
 
 
 function Navbar(){
@@ -32,7 +27,7 @@ function Navbar(){
               <NavLink to="/perros" className="nav-link" activeClassName="active"> Perros</NavLink>
               </li>
               <li className="nav-item">
-              <Link to="/contacto" className="nav-link"> Contacto</Link>
+              <NavLink to="/contactos" className="nav-link" activeClassName="active"> Contacto</NavLink>
               </li>
             </ul>
           </div>

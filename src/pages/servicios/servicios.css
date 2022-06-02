@@ -1,0 +1,16 @@
+#servicio {
+	display: flex;
+	flex-wrap: wrap;
+
+}
+.boxservicio {
+	margin-right: 2rem;
+	padding: 2rem;
+	flex-basis: 45%;
+}
+.boxservicio img {
+	margin-right: 2rem;
+	float: left;
+	max-width: 150px;
+	width: 100%;
+}

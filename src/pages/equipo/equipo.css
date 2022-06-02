@@ -1,0 +1,19 @@
+#baner2 img{
+	width: 100%;
+}
+
+#equipo {
+	display: flex;
+	justify-content: space-around;
+}
+.boxequipo {
+	margin: 10px;
+	text-align: center; /*centrar todos los elementos*/
+	padding: 1rem;
+}
+.boxequipo img {
+	max-width: 200px;
+	width: 100%;
+	border: 6px solid var(--blue-color);
+	border-radius: 50%;
+}
