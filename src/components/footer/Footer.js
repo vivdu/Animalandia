@@ -27,7 +27,6 @@ function Footer() {
             1234567 <br />
             1234567 <br />
             1234567 <br />
-            1234567 <br />
         </p>
   </article>
   
